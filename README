@@ -1,0 +1,3 @@
+I've never read README files. It's a good idea to start it.
+So this is an impementation of Rock-Paper-Something else game on my small(but powerfull, like programmers like to say, about :-)) wsgi application.
+At the point, i decided to call my app Sushi or SushiApp ). It's open source, and works with gevents, greenlet and web-sockets(i hope :-)). Hope it will be usefull.
